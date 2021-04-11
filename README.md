@@ -1,3 +1,18 @@
+
+## Nyt näkyvä ohjelma koodi on sisältää:
+
+	* Mahdollisuuden luoda uusi käyttäjä ja salasana
+	* kirjautua sisään ohjelmaan
+	* luoda uuden aiheen 
+	* lähettää viestejä aiheiden sisällä
+	* aiheiden sekä lähetettyjen viestien vieressä on niiden luoneen käyttäjän nimi
+		* nimen kautta pääsee jokaisen käyttäjän omalle sivulle missä näkee kyseisen käyttäjän luomat aiheet
+	* Haku sivulla voi hakea aiheita viestejä tai käyttäjiä
+	
+	* Sovellusta ei voi testata herokussa, windows subsystem for Linux:in kautta herokun asentaminen ja käyttö ei ole vielä onnistunut.
+	* nyt näkyvä ohjelma koodi pitää jakaa useampaan moduuliin
+	
+	
 # Keskustelufoorumi sovellus
 
 ## Viestiketjut
